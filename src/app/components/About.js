@@ -19,7 +19,7 @@ export const About = () => {
           <div className="flexbox md:grid-cols-2 gap-16">
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
-                I&#39m a passionate developer focused on creating elegant solutions to complex problems.
+                I&#39;m a passionate developer focused on creating elegant solutions to complex problems.
                 With expertise in modern web technologies, I build scalable applications that deliver
                 exceptional user experiences.
               </p>
